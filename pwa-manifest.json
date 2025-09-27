@@ -29,7 +29,7 @@
     ],
     "background_color": "#eb3f00",
     "theme_color": "#eb3f00",
-    "display": "fullscreen",
+    "display": "standalone",
     "orientation": "any",
     "start_url": ".",
     "url": "index.html",
