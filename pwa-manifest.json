@@ -1,7 +1,7 @@
-{
-    "name": "RedCherry",
-    "short_name": "RedCherry",
-    "description": "RedCherry Simple PWA",
+{"id": "/RailCard/",
+    "name": "RailCard",
+    "short_name": "RailCard",
+    "description": "RailCard",
     "icons": [
         {
             "src": "img/fav-192.png",
